@@ -1,0 +1,17 @@
+{
+  "code": 27,
+  "version": "0.5.1",
+  "apk": "https://raw.githubusercontent.com/Exover95/verre-bleu-apk/main/verre-bleu-natif.apk",
+  "sha256": "90cb3a7c7fb47ad108cf5be4cf383c0da0be07e38b36f42756295af750a1ddb1",
+  "notes": "Vie de famille et enceintes, météo animée, défilement horizontal",
+  "details": [
+    "Vie de famille : carte réduite à une ligne = les messages seuls ; en touchant un message, l’appli demande sur quelles enceintes l’annoncer",
+    "Écrire une annonce : « Annonce de la maison », le message, puis les enceintes avec leur dessin (Nest Mini, Google Home, écran de la cuisine)",
+    "Boutons rapides : l’ampoule n’est plus jaune quand c’est éteint ; le bouton rebondit au toucher, éclat lumineux à l’allumage",
+    "Poubelle : le bac se dandine le jour où il faut le sortir",
+    "Météo animée : soleil, lune et étoiles, nuages, pluie, neige, orage, brouillard, vent (carte Météo et en-tête)",
+    "Paramètres → Défilement de l’Accueil : Vertical ou Horizontal (pages côte à côte) ; Fixe arrive avec le moteur de rendu",
+    "Paramètres → Espace entre les cartes : Normal ou Réduit",
+    "Toutes ces animations suivent l’interrupteur « Accueil » de Paramètres → Animations"
+  ]
+}

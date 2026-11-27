@@ -1,0 +1,15 @@
+{
+ "code": 56,
+ "version": "0.6.7",
+ "apk": "https://raw.githubusercontent.com/Exover95/verre-bleu-apk/main/verre-bleu-natif.apk",
+ "sha256": "1abbe3a935eae3cddb3f2caccc7940ff0ac902c9548b47066760a92cfb906f47",
+ "notes": "Page Chauffage refaite, Musique, écran de veille plus utile",
+ "details": [
+  "Chauffage : nouvelle page d'après tes maquettes (température et consigne, mode, autre zone, programmation de la semaine, réglages rapides, plages du jour, chaudière, « Tout est au vert »)",
+  "Chauffage : modifier un jour = jours en pastilles, heures au choix par quart d'heure, « Aussi pour », et rien n'est envoyé sans confirmation",
+  "Musique (nouvelle page) : bibliothèque Music Assistant, lecture, enceintes groupées, barre de lecture sur l'Accueil",
+  "Veille : luminosité normale au début puis baissée au bout de 10 min (20 % le jour, 5 % la nuit), jamais au noir ; réglable dans Paramètres",
+  "Veille : les 3 caméras en bas de l'écran (photos toutes les 30 s, puis 2 min)",
+  "Réveil selon la tablette : capteur de proximité, caméra, ou son (Jamais / La nuit / Toujours ; seul le niveau du bruit est mesuré, micro laissé à l'interphone)"
+ ]
+}
